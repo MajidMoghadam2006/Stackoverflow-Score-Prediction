@@ -1,3 +1,7 @@
+# Dataset and embedding
+cleaned_body.csv
+embedding_matrix_full_6B.npy
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
